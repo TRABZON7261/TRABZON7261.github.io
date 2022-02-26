@@ -10,7 +10,7 @@
                 Bonjour à tous ici vous vous trouver sur un site web d'information sur la wifi en générale !
             </h1>
 Donc ici nous parlerons d'informatique et plus précisément de wifi, de réseau et de la compatibilité entre différentes appareils électronique et différentes type de bandes Wi-Fi et fréquences radios.
-        <img src="wifi.jpg" width="128" height="128">
+        <img src="téléchargement.jpg" width="128" height="128">
             <p> 
 
             </p>
