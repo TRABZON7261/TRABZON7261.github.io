@@ -7,10 +7,11 @@
     <body>
         <div style="text-align: center">
             <h1 style="color: #3333ff">
-                Création de sites Internet
+                Différence entre wifi 2.4Go et 5Go, matériel compatible.
             </h1>
             <p> style="font-family: verdana ; front-size: 150%">
-               Voici un premier paragraphe
+               Réseau 2.4Go:
+               
             </p>
         </div>
     </body>    
