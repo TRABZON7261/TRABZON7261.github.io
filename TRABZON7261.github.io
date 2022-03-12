@@ -29,14 +29,28 @@ p {
             <h1 style="color: #3333ff">
                 Bonjour à tous ici vous vous trouver sur un site web d'information sur la wifi en générale !
             </h1>
-Donc ici nous parlerons d'informatique et plus précisément de wifi, de réseau et de la compatibilité entre différentes appareils électronique et différentes type de bandes Wi-Fi et fréquences radios.
        
             <p> 
-<img src="https://www.w3schools.com/html/t%C3%A9l%C3%A9chargement.jpg" width="700" height="300">
+             Sur ce site web nous parlerons d'informatique et de numérique, et plus précisément de wifi, de réseau et de la compatibilité entre différentes appareils électronique et différentes type de bandes Wi-Fi et fréquences radios.
+
+
 </p>
-<p><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></p>
+<p> <img src="https://thumbs.dreamstime.com/b/wifi-concept-young-man-wifi-concept-young-man-night-140407238.jpg" width="800" height="400"> </p>
+         <p>Les réponse à toutes vos questions sont sur les liens ci-dessous :</p>
+         <p><a href="html page 2.html">WiFi 2,4 GHz et WiFi 5 GHz ?</a></p>
+         <p><a href="html page 3">Que sont le WiFi 2,4 GHz et le WiFi 5 GHz ?</a></p>
+         <p><a href="html page 4">Quelle est la différence entre le WiFi 2,4 GHz et le WiFi 5 GHz ?</a></p>
+         <p><a href="html page 5">Comment sélectionner le WiFi 2,4 GHz ou 5 GHz pour mes appareils ?</a></p>
+         <p><a href="html page 6">Quels routeurs prennent en charge le Wi-Fi 2,4 GHz et le Wi-Fi 5 GHz ?</a></p>
+         <p>Et pour plus d'information sur moi et  cliquez sur le lien ci-dessous :</p>
+         <p><a href="html page 7">À propos de moi !</a></p>
         </div>
     </body>    
 </html>
-
-
+echo "# TRABZON7261.GITHUB" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/TRABZON7261/TRABZON7261.GITHUB.git
+git push -u origin main
